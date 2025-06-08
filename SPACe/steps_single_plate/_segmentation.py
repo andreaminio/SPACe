@@ -192,11 +192,6 @@ class SegmentationPartII:
     maxentropy_filter.SetInsideValue(0)
     maxentropy_filter.SetOutsideValue(1)
 
-    # TODO: To smoothen the boundary of each object (if possible and can be done quickly)
-    #  option 1) Can use the mode filter in PIL.
-    #  option 2) Can use the dilation and erosion ops in skimage. ✓
-    #  option 3) Can use the convex-hull op in skimage in skimage.
-    #  option 4) Apply median blur and use watershed
 
     def __init__(self, args, show_masks=False):
         """Never put any object here that is a numpy array, because multiprocess can't pickle it!!!"""
