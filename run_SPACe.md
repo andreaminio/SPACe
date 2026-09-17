@@ -10,7 +10,7 @@ and is in the same directory as your ```experiment_path``` which is the path to 
 The ```args``` variable is a namespace python object that holds all the user input/hyperparamter information.
 
 A Google Colab version is designed for testing the software under different hyperparameter settings.
-[![Open Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/dlabate/SPACe/blob/main/SPACe_colab.ipynb) 
+[![Open Google Colab](95c8e424546fbaa612a34a1468ea26fd_MD5.svg)](https://github.com/dlabate/SPACe/blob/main/SPACe_colab.ipynb) 
 
 To learn more about its available keys/fields/options go to ```cellpaint/steps_single_plate/step0_args.py```
 After making sure all the necessary adjustments are made to the ```args``` Namespace.

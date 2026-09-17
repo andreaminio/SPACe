@@ -23,7 +23,7 @@ Stossi, F., Singh, P.K., Marini, M., Safari, K., Szafran, A.T., Rivera Tostado, 
 
 ## **Image Analysis Steps**
 
-![Image Description](https://github.com/dlabate/SPACe/raw/main/figures/image%20analysis%20steps.png)
+![Image Description](0dd4b060e52bd7a5d2aa7dd1614060e7_MD5.png)
 
 1) Preview (Check and decide how happy you are with your segmentation on a few wells!)
 2) Segmentation Step 1 (Segmenting nucleus and cell)
